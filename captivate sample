@@ -1,0 +1,212 @@
+Getting Started
+
+What is Adobe Captivate?
+
+The Adobe Captivate is an eLearning authoring tool that enables you for creating software simulations, HD video demos, Interactive videos, and Interactive quizzes.
+It is an Adobe product and compatible for use with other Adobe products.
+It can convert .SWF and HTML5 format files to MP4 format and converts Microsoft PowerPoint presentations to HTML5 or .SWF formats.
+It is also used to create Screencasts.  Adobe Captivate (2019) is the current release.
+Installation
+
+Prerequisites
+
+Please be ensure that the following requirements are met before installing the Captivate.
+Windows
+Operating System		Windows 7, 8, 8.1 and10 
+				Note:  Windows with 64bit is supported
+RAM				Starting from 4GB
+Hard disk drive			Minimum of 10GB space should be available during 						installation
+Note: Removable flash-based storage devices are not supported for installation
+Processor			>2Ghz Intel processor
+Resolution			1024x768 display (1280x1024 recommended)
+
+Note: Phone activation is not available. Activation can be done through online services only.
+
+
+MacOS
+Operating System		macOS v10.14.5 (or later)
+RAM				Above 4GB
+Hard disk drive			Minimum of 10GB space should be available during installation
+Note: Removable flash-based storage devices is not supported for installation
+Processor			Multi-core Intel processor
+Resolution			1024x768 display (1280x1024 recommended)
+Note: Phone activation is not available. Activation can be done through online services only.
+
+Supported Browser for SWF according to Operating systems
+
+Browsers supported by Windows
+Internet Explorer versions 8, 9, 10, 11
+Google Chrome Latest version 
+Mozilla Firefox 4.0 
+Browsers supported by MacOS
+Safari 6 (or later)
+Chrome (latest)
+Supported Browser for HTML5 according to Operating systems
+
+Browsers supported by Windows
+Internet Explorer versions 9, 10, 11
+Google Chrome 67 or later
+Microsoft Edge
+Mozilla Firefox 60 or later
+Browsers supported by MacOS
+Safari 12.1.1 or later
+Chrome 70 or later
+Firefox 60 or later
+Supported Browser for VR Content Playback according to Operating systems
+
+Browsers supported by Windows
+EDGE
+Chrome (latest)
+Firefox 64.0 (or later)
+
+Browsers supported by MacOS
+Safari 12 (or later)
+Chrome (latest)
+Languages Supported
+English
+French
+German
+Japanese
+Korean
+Portuguese (Brazilian)
+Spanish
+Download Captivate
+To download Adobe Captivate, visit the official site and follow the instructions.
+Note: User must accept the license agreement, and Product activation must be done online only after 30 days of installation.
+
+Install Captivate
+After downloading the Adobe Captivate file, Run the setup file and follow the instructions accordingly to finish the installation.
+[Insert installation page screenshot]
+
+Note: Close any other Adobe applications before installing the Adobe Captivate.
+
+Software Activation
+
+Once the software is installed, you'll be notified to activate your software with the license key within the 30days of software being installed.
+If you do not have a serial number, you can use Captivate as a trial for 30 days.
+If you find any difficulties in activating the software, see the Read Me file on your installation DVD, or visit the Adobe Website
+
+Build a Project
+
+Create a blank project
+Let us get started by creating a blank project
+Launch the Captivate tool
+[Insert Captivate home page screenshot]
+Select  Blank project with required dimensions
+Click OK
+A new project has created with a blank page.
+
+How to add text captions to a slide
+Let’s add a text caption to slide
+Click on the Text in the toolbar and then select Text Caption. New text caption is inserted on the slide, and the Placeholder text is placed
+Enter the required text
+Click anywhere in the blank space on the slide to exit Text Caption
+Select the Text Caption and then drag it to anywhere in the slide as desired
+
+How to apply themes
+Click Themes in the toolbar
+Select the drop-down menu and then select the desired theme 
+Click OK 
+The Theme is applied for all the objects in the project.
+Note: At any point, you can apply a new theme to the project you currently working.
+How to add images to a slide
+Now, let’s add an image to slide to make it look good.
+Click the Media in the toolbar and choose the image to add
+Use the handles of the image to adjust the size
+Note: Press the Shift key while changing the size of the image to maintain the aspect ratio.
+To move an image to the desired location, simply select the image and drag it
+How to add interactivity to object in a slide
+Let’s see how to add an interactive button to start the presentation.
+Click the Interactions in the toolbar and choose the Button
+After the button is placed, you can change the properties of the button
+Click the Properties  from the toolbar, go to the Style tab
+Go to the Caption field to change the caption of the button
+To move the button to the desired location, simply select the button and drag it
+Preview the Project
+You can preview the project at any time to check how the project is looking.
+Click Preview from the toolbar and then choose Project to preview the entire project
+Preview will be displayed, which shows the entire project.
+
+Publishing the pro`ject
+Let’s see how to publish our sample project.
+Click Publish from the toolbar
+Select the Publish to Computer for the first time for storing the file in local disk
+Note: Output formats available are .SWF, HTML5, Video and Executable.
+Select the required output format
+Note: While publishing the project, please keep the system idle to finish the publishing process soon.
+Enter the name in the Name field and select the required destination folder from Browse to store the file
+Click Publish to generate the file
+
+Workspace Exploration
+ 
+Captivate Workspace Panel
+ The Panels are located at the top side of the application. To show/hide panels, Go to the Window menu and select the required panel.
+ 
+Filmstrip: It displays all the slides in order in the project in which slides will publish accordingly.
+[Screenshot of Filmstrip highlighted one]
+ 
+You can change the slides order by dragging it to a new position in Filmstrip.
+To select multiple slides, you can hold the Shift or Ctrl key when selecting the slides. Press Ctrl+A to select all slides.
+Right-click on any slide, select Filmstrip and select small, medium, and large to change the size of the thumbnail.
+The Handycam icon appears at the bottom of the slide if the slide record in Video demo mode or Full motion recording mode.
+The Audio icon is displayed, if the audio is associated with the slide.
+The lock icon is displayed at the upper-right corner of the slide if the slide is locked. To unlock the slide, click on the Lock icon.
+ 
+Library: Items used in the current project, such as images, audio, and media, are automatically added to the library. Export them to use them for other projects as well. The Library panel is not displayed only in Quizzing workspace.
+Properties such as Name, type, size, use count, and date modified is displayed under this. You can edit the item which is required.
+You can import the files to the Library by following actions.
+Select File menu > Import > External Library
+Select the required file from browse option and click Open
+Files are added to the external library and drag the file from to current project to use it.
+ 
+Project Info: It displays the properties associated with the project.
+ 
+Mobile Palette: Geolocation features and gesture options in a mobile project is enabled and disabled with this.
+ 
+Master slide: Slides background and common objects such as logos, fonts, header, and footer are defined with the Master slide.
+ 
+Align: It is an option used to align multiple objects in a slide. You have options like aligning the objects horizontally and vertically.
+ Let’s see how to align objects in a slide,
+To align objects, select a slide that consists of multiple objects
+If you enable the Align panel, it is displayed above the toolbar as shown in the screenshot
+[Insert Align panel Screenshot]
+To select multiple objects at a time, hold the Shift key and click on the objects
+Right-click on the selected objects and select align option
+Choose the required action from displayed options
+ 
+Timeline: Timing of slide and objects are adjusted with the timeline. (Working of Timeline is explained in detail in further)
+ Quiz Properties: Quiz slides properties are displayed.
+ Comments: It gives the review comments provided for the project.
+ Advanced Interactions: Overview of interactive objects is provided using this panel.
+ This contains the following information of objects such as actions and properties:
+Slide/object:  Slide number, label, and type of object are shown in this column.
+Instance name: The name of the object instance is shown in this column.
+Shortcut:  This column shows view and edits keyboard shortcuts for object/slide.
+Time limit: This column displays the time limit for specific objects.
+Include in Quiz: Overall project quiz score for an object is indicated here.
+HTML5 Tracker: The unsupported object and features in HTML5 output are shown here. The list is updated based on the changes you've made.
+ 
+Swatches:  It allows you to import color from other adobe applications such as Adobe Framemaker. We can perform the Colors for text, stroke, fill, and the highlight of objects actions.
+Insert swatch panel screenshot
+To choose a color, click the color picker
+Click the Eyedropper tool and then select a color from the screen which you want to apply
+Color swatches from other applications are imported by following one of the actions.
+Click Append to apply swatches to current swatches
+Click Load to replace the existing swatches
+Click Save to apply changes and import to other projects
+Click Reset to make the factory default for swatches
+Click Clear to remove the modifications applied to swatches
+Rulers 
+You can hide/show the Rulers from; View> Show Rulers > Hide Rulers. It helps you to place and measure objects precisely.
+Guides
+You can create ruler guides that help you align text and graphics objects. To change the guide color, click Edit > Preferences. Choose a color from the shown and click OK.
+ Grids
+Grid is a set of lines. When Snap to Grid is enabled, object sticks to the line.
+To show or hide Grid, Go to View > Show Grid
+To enable Snap to Grid, go to View > Snap to Grid
+To enable Snap to Object, go to View > Snap to Object
+Note: When you are editing or moving an object, snap to grid is not applicable.
+You can change the Grid size too small or large using below instructions,
+Go to Edit > Preferences
+Select General settings
+Select the required size
